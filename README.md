@@ -1,4 +1,6 @@
-## Hi there 👋
+# Brandon Nguyen
+
+## [Top-N Genre Classification Neural Network](https://github.com/beatsageo/Top_n) - Senior Capstone Project
 
 <!--
 **BrandonNguyenOSU/BrandonNguyenOSU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
