@@ -27,12 +27,17 @@ I began working on a video game idea in 2024 inspired by the existing game, Pegg
 
 This was a project I worked on while learning about microservices. It provides a front-end to the user that utilizes multiple microservices to allow the user to perform a variety of functions on a database of songs. Some simpler services were used to sort, filter, and store the data in a json file. One of the driving factors of the system is the spotify microservice provided to me by a classmate. This allowed the user to easily populate the database and find new music dynamically.
 
-![Example Spectrogram](/assets/melody-harbor.png) 
+![UI Screenshot](/assets/melody-harbor.png) 
 
 
 ## [Melody Harbor Database - HTML Frontend and Database](https://github.com/CRTMCQ/melody-harbor) - 2024 Class Project
 
 I worked on this project with a classmate to construct a series of databases consisting of songs, albums, and artists that can be accessed and edited through an HTML front-end.
+
+
+## [Full Stack MERN App](https://github.com/BrandomonkeyNguyen/Full-Stack-MERN-App) - 2024 Class Project
+
+A Full Stack MERN App I worked on for my Web Development course.
 
 
 ## [Dungeons and Dragons Sheet Filling Microservice](https://github.com/BrandomonkeyNguyen/DND-Sheet-Microservice) - 2024 Class Project
