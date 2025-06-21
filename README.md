@@ -18,7 +18,7 @@ I was primarily responsible for the Input Preprocessing portion of this project.
 ![Example Spectrogram](/spec-files/blues.00000.au_1.jpg) 
 
 
-## [Melody Harbor](https://github.com/BrandonmonkeyNguyen/Melody-Harbor) - 2024 Class Project
+## [Melody Harbor](https://github.com/BrandomonkeyNguyen/Melody-Harbor) - 2024 Class Project
 
 This was a project I worked on while learning about microservices. It provides a front-end to the user that utilizes multiple microservices to allow the user to perform a variety of functions on a database of songs. Some simpler services were used to sort, filter, and store the data in a json file. One of the driving factors of the system is the spotify microservice provided to me by a classmate. This allowed the user to easily populate the database and find new music dynamically.
 
