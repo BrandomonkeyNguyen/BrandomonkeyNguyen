@@ -2,7 +2,7 @@
 
 
 ## Internship Experience
-  ### July 2024 - Present:
+  ### July 2024 - November 2025:
   ### Intern - Washington Trust Bank Credit Administration Department
 * Assessed outdated Excel projects and identified potential improvements. Created formulas to automate the gathering of manual data. Finding important values to optimize appraisal estimates given a set of sales data.
 * Learned how to set up Microsoft Sharepoint pages and lists and revamped the department website. Applied teachings from User Experience Design courses to produce a site that is easy to navigate and understand for everyone in the department and beyond.
