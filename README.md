@@ -18,13 +18,15 @@ I was primarily responsible for the Input Preprocessing portion of this project.
 ![Example Spectrogram](/spec-files/blues.00000.au_1.jpg) 
 
 
-## [Peggle/Pachinko-Type Roguelike Video Game](https://github.com/NguyenBrando/Peggle-Roguelike) - WIP Video Game Project
-
-I began working on a video game idea in 2024 inspired by the existing game, Peggle. Similarly to Peggle, the game consists of a ball that the player drops into a grid of pegs to bounce down to the bottom. In order to continue playing, the user needs to pay the ever-increasing "drop fee" to drop the ball into the grid. As the game progresses, the player is given upgrade options to come up with strategies to continue making money. Additionally, the player periodically faces themed levels that provide challenges to the current state of the players board.
-
 ## [Mayor Simulation Video Game](https://github.com/NguyenBrando/Mayor-Simulation-Game) - WIP Video Game Project
 
 I created this project to experiment with creating a simulation-style game. My end goal is to create a game with a realistic feel and include complex and compelling random character/story generation. Starting a new game will procedurally generate a world map and history while the player is given a starting island to build their own city. Throughout the game, the city will begin to populate with dynamic characters with their own emotions, desires, and autonomy. The player will play a mayoral role, providing guidance and support to the population without controlling them directly. This includes suggesting occupations, managing foreign relations, and maintaining the population's quality of life.
+
+
+## [Peggle/Pachinko-Type Roguelike Video Game](https://github.com/NguyenBrando/Peggle-Roguelike) - WIP Video Game Project (OSU Coursework)
+
+I began working on a video game idea in 2024 inspired by the existing game, Peggle. Similarly to Peggle, the game consists of a ball that the player drops into a grid of pegs to bounce down to the bottom. In order to continue playing, the user needs to pay the ever-increasing "drop fee" to drop the ball into the grid. As the game progresses, the player is given upgrade options to come up with strategies to continue making money. Additionally, the player periodically faces themed levels that provide challenges to the current state of the players board.
+
 
 ## [Melody Harbor](https://github.com/NguyenBrando/Melody-Harbor) - 2024 Class Project
 
