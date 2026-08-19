@@ -18,15 +18,15 @@ I was primarily responsible for the Input Preprocessing portion of this project.
 ![Example Spectrogram](/spec-files/blues.00000.au_1.jpg) 
 
 
-## [Peggle/Pachinko-Type Roguelike Video Game](https://github.com/BrandomonkeyNguyen/Peggle-Roguelike) - WIP Video Game Project
+## [Peggle/Pachinko-Type Roguelike Video Game](https://github.com/NguyenBrando/Peggle-Roguelike) - WIP Video Game Project
 
 I began working on a video game idea in 2024 inspired by the existing game, Peggle. Similarly to Peggle, the game consists of a ball that the player drops into a grid of pegs to bounce down to the bottom. In order to continue playing, the user needs to pay the ever-increasing "drop fee" to drop the ball into the grid. As the game progresses, the player is given upgrade options to come up with strategies to continue making money. Additionally, the player periodically faces themed levels that provide challenges to the current state of the players board.
 
-## [Mayor Simulation Video Game](https://github.com/BrandomonkeyNguyen/Peggle-Roguelike) - WIP Video Game Project
+## [Mayor Simulation Video Game](https://github.com/NguyenBrando/Mayor-Simulation-Game) - WIP Video Game Project
 
 I created this project to experiment with creating a simulation-style game. My end goal is to create a game with a realistic feel and include complex and compelling random character/story generation. Starting a new game will procedurally generate a world map and history while the player is given a starting island to build their own city. Throughout the game, the city will begin to populate with dynamic characters with their own emotions, desires, and autonomy. The player will play a mayoral role, providing guidance and support to the population without controlling them directly. This includes suggesting occupations, managing foreign relations, and maintaining the population's quality of life.
 
-## [Melody Harbor](https://github.com/BrandomonkeyNguyen/Melody-Harbor) - 2024 Class Project
+## [Melody Harbor](https://github.com/NguyenBrando/Melody-Harbor) - 2024 Class Project
 
 This was a project I worked on while learning about microservices. It provides a front-end to the user that utilizes multiple microservices to allow the user to perform a variety of functions on a database of songs. Some simpler services were used to sort, filter, and store the data in a json file. One of the driving factors of the system is the spotify microservice provided to me by a classmate. This allowed the user to easily populate the database and find new music dynamically.
 
@@ -38,11 +38,11 @@ This was a project I worked on while learning about microservices. It provides a
 I worked on this project with a classmate to construct a series of databases consisting of songs, albums, and artists that can be accessed and edited through an HTML front-end.
 
 
-## [Full Stack MERN App](https://github.com/BrandomonkeyNguyen/Full-Stack-MERN-App) - 2024 Class Project
+## [Full Stack MERN App](https://github.com/NguyenBrando/Full-Stack-MERN-App) - 2024 Class Project
 
 A Full Stack MERN App I worked on for my Web Development course.
 
 
-## [Dungeons and Dragons Sheet Filling Microservice](https://github.com/BrandomonkeyNguyen/DND-Sheet-Microservice) - 2024 Class Project
+## [Dungeons and Dragons Sheet Filling Microservice](https://github.com/NguyenBrando/DND-Sheet-Microservice) - 2024 Class Project
 
 This microservice was created as a collaboration project with a student that was building a character sheet creation assistant. I came up with the idea to turn the resultant data into a sheet image.
