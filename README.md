@@ -22,6 +22,7 @@ I was primarily responsible for the Input Preprocessing portion of this project.
 
 I created this project to experiment with creating a simulation-style game. My end goal is to create a game with a realistic feel and include complex and compelling random character/story generation. Starting a new game will procedurally generate a world map and history while the player is given a starting island to build their own city. Throughout the game, the city will begin to populate with dynamic characters with their own emotions, desires, and autonomy. The player will play a mayoral role, providing guidance and support to the population without controlling them directly. This includes suggesting occupations, managing foreign relations, and maintaining the population's quality of life.
 
+![WIP Game Demo](/assets/NPCMovementDemo.gif) 
 
 ## [Peggle/Pachinko-Type Roguelike Video Game](https://github.com/NguyenBrando/Peggle-Roguelike) - WIP Video Game Project (Coursework)
 
